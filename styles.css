@@ -1,0 +1,61 @@
+.fa-facebook:before{
+    content: "Facebook";
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.fa-instagram:before{
+    content: "Instagram";
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.fa-linkedin:before{
+    content: "LinkedIn";
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.fa-twitter:before{
+    content: "Twitter";
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.fa-youtube:before{
+    content: "Youtube";
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.btn-primary{
+    color: #fff!important;
+    border-color: #1B4379!important;
+    background-color: #1B4379!important;
+    box-shadow: 0 4px 6px rgba(50,50,93,.11),0 1px 3px rgba(0,0,0,.08)!important;
+}
+
+.btn-primary:hover{
+    color: #fff!important;
+    border-color: #90a1be!important;
+    background-color:#90a1be!important;
+}
+
+.link{
+    color: #1B4379 !important;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.card{
+    font-weight: 400;
+    box-shadow: 0 2px 5px 0 rgb( 0 0 0 / 0%), 0 2px 10px 0 rgb(0 0 0 / 5%);
+}
+
+.nav-item{
+    display: none;
+}
+
+.fal.fa-info-circle{
+color: #1b4379;
+}
